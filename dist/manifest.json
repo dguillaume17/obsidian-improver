@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-improver",
+	"name": "obsidian-improver",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "obsidian-improver",
+	"author": "Obsidian",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
